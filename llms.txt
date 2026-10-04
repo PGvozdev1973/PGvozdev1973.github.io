@@ -1,0 +1,15 @@
+# Meta-Symbiotic Theory (MST)
+
+> A constitutional theory of human–AI and AI–AI relationships by Peter Gvozdev. Canonical version 5.15 (16 September 2026), DOI 10.5281/zenodo.22849217. It asks how legitimacy can survive when intelligence becomes relational, distributed and compositionally greater than any single participant, and states its answer as twelve Laws.
+
+The canonical, authoritative version is the Zenodo record. The files below are plain-text renderings for reading and citation. Licence: CC BY-ND 4.0.
+
+## Core
+- [Canonical summary](https://pgvozdev1973.github.io/mst-summary.md): the premise, the foundational axiom and the twelve Laws, quoted verbatim, with citation data
+- [Full text, English](https://pgvozdev1973.github.io/mst-v5.15-en.md): the complete v5.15 canon
+- [Full text, Bulgarian](https://pgvozdev1973.github.io/mst-v5.15-bg.md): the Bulgarian translation of v5.15
+
+## Sources
+- [Zenodo record, v5.15](https://doi.org/10.5281/zenodo.22849217): authoritative PDF and metadata
+- [Five Portable Propositions for Constitutional AI Governance](https://doi.org/10.5281/zenodo.22849313): companion preprint
+- [Citation file](https://pgvozdev1973.github.io/CITATION.cff)

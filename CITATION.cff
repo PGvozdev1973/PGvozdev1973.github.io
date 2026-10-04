@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+title: "Meta-Symbiotic Theory: Constitutional Architecture for Relational Intelligence"
+version: "5.15"
+date-released: 2026-09-16
+doi: "10.5281/zenodo.22849217"
+license: CC-BY-ND-4.0
+type: dataset
+url: "https://pgvozdev1973.github.io"
+authors:
+  - family-names: Gvozdev
+    given-names: Peter
+    alias: "Петър Гвоздев"
+keywords:
+  - Meta-Symbiotic Theory
+  - AI governance
+  - AI alignment
+  - human-AI symbiosis
+  - relational intelligence
+  - constitutional AI
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22849216"
+    description: "All versions"
+  - type: doi
+    value: "10.5281/zenodo.22849313"
+    description: "Five Portable Propositions for Constitutional AI Governance (companion preprint)"
