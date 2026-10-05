@@ -13,3 +13,6 @@ The canonical, authoritative version is the Zenodo record. The files below are p
 - [Zenodo record, v5.15](https://doi.org/10.5281/zenodo.22849217): authoritative PDF and metadata
 - [Five Portable Propositions for Constitutional AI Governance](https://doi.org/10.5281/zenodo.22849313): companion preprint
 - [Citation file](https://pgvozdev1973.github.io/CITATION.cff)
+
+## Engagement record
+- [MST Stewardship — Public Record](https://pgvozdev1973.github.io/stewardship-record.html): dated 5 October 2026; complete available Peter–Dola–V exchange, source attribution and open invitation to scrutiny. This record documents conversational engagement and does not amend the canon or establish institutional adoption.
