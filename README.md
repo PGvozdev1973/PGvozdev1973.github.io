@@ -21,3 +21,7 @@ The authoritative version is the PDF on Zenodo. If a file here differs from it, 
 ## Licence
 
 Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). Copyright 2026 Peter Gvozdev. See `LICENSE.md`.
+
+## Propagation experiment archive
+
+[Migration record and preserved audit/outreach material](mst/MIGRATION.md). The controlling deadline is **21 October 2026**. Outreach files are drafts and historical logs are not current availability claims.

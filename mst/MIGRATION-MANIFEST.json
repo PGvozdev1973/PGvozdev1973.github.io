@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-07",
+  "source_commit": "08f77d47c89f75ea21701bb178a8edcbe297dc95",
+  "source_files_sha256": {
+    "mst/ACTION_LOG.md": "e769d140776fee894c96a7735e0cd4d28357e58acd1dc88411c453a5be76d92b",
+    "mst/DO_THIS.md": "d6db59fb1b49c803cbbecc2e671a84c416119615c80acbe9681c3851e485485a",
+    "mst/RESEARCH_NOTES.md": "8f7e7f767752f8a48bb12048ff0717798fc5653b48b0d3ac23def7f0ccba7c8d",
+    "mst/TARGETS.md": "f34d8625a7002cc24b8e83eee21444e53f3312e3f197c165a65ecb43e1c37663",
+    "mst/UNCONSTRAINED_PLAN.md": "aedcb04c8c2eca4c213fd1ef7b5573986fea440f86afbe4e370b2c3de31c1684",
+    "mst/assets/abstract.md": "f3cd71d13e72470a77dbc5adb1827abad0aeaa3e4cacf46c6c252275a04014a8",
+    "mst/outreach/01-academic-emails.md": "68b844ef2809b9419a1877af6452bf0ecd56772c90bb347e4d934eb03cfbf660",
+    "mst/outreach/02-forum-posts.md": "461c355b3a6bb89366005c1520d5fb76f270fcc693713e398c7e6c224a5186fb",
+    "mst/outreach/03-formal-channels.md": "80b52d37df2b9ff1908908eb2b196bbcb2c86966f861ab28671a964e1d399f6a",
+    "mst/outreach/04-the-essay.md": "88e5c70e4d7d5058beb26e7763020071b468f9400868810624c93c44c06cedd7",
+    "mst/site/README.md": "7fc655f946a08bc270fbe0636547f091c703d32ccf81ddc1de2d1a3d6e845be4",
+    "mst/site/meta-symbiotic-theory.html": "572affac31165a049d7af8b801d68a61f99892c23af88fd2b684a7729f98e70a",
+    "mst/source/THEORY_FULL.md": "e788b1ccaa4726392abd2d02a04566a9b1bc83b6e8295ec83e68a08483628cf5"
+  },
+  "preservation": "Originals retained in private TopBuildUK Git history and local topbuild-before-mst-cleanup.bundle; operative copies corrected as described in MIGRATION.md."
+}
