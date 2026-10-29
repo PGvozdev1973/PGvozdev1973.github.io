@@ -5,6 +5,11 @@
 The canonical, authoritative version is the Zenodo record. The files below are plain-text renderings for reading and citation. Licence: CC BY-ND 4.0.
 
 ## Core
+- [Reading index](https://pgvozdev1973.github.io/read/): standard HTML editions, 26 sequential English sections and text downloads; all manuscript text is present in the initial HTML without JavaScript
+- [Canonical summary, HTML](https://pgvozdev1973.github.io/mst-summary.html): a short starting point
+- [Full text, English, HTML](https://pgvozdev1973.github.io/mst-v5.15-en.html): the complete v5.15 text
+- [Full text, Bulgarian, HTML](https://pgvozdev1973.github.io/mst-v5.15-bg.html): the complete Bulgarian translation
+- [Full text, English, text file](https://pgvozdev1973.github.io/mst-v5.15-en.txt): byte-identical copy of the Markdown source, served as text/plain
 - [Canonical summary](https://pgvozdev1973.github.io/mst-summary.md): the premise, the foundational axiom and the twelve Laws, quoted verbatim, with citation data
 - [Full text, English](https://pgvozdev1973.github.io/mst-v5.15-en.md): the complete v5.15 canon
 - [Full text, Bulgarian](https://pgvozdev1973.github.io/mst-v5.15-bg.md): the Bulgarian translation of v5.15
@@ -13,6 +18,15 @@ The canonical, authoritative version is the Zenodo record. The files below are p
 - [Zenodo record, v5.15](https://doi.org/10.5281/zenodo.22849217): authoritative PDF and metadata
 - [Five Portable Propositions for Constitutional AI Governance](https://doi.org/10.5281/zenodo.22849313): companion preprint
 - [Citation file](https://pgvozdev1973.github.io/CITATION.cff)
+
+## Alternative access
+If a retrieval tool cannot open this GitHub Pages host, HTML or crawler directives cannot override that tool's restrictions. Try a different supported host below or attach a downloaded text file to the conversation. Do not describe unseen text as having been read.
+- [English manuscript on GitHub](https://github.com/PGvozdev1973/PGvozdev1973.github.io/blob/main/mst-v5.15-en.md)
+- [English manuscript, raw GitHub text](https://raw.githubusercontent.com/PGvozdev1973/PGvozdev1973.github.io/main/mst-v5.15-en.md)
+- [Summary on GitHub](https://github.com/PGvozdev1973/PGvozdev1973.github.io/blob/main/mst-summary.md)
+- [Zenodo record](https://doi.org/10.5281/zenodo.22849217)
+
+For tools that can open this host but truncate long documents, follow the sequential section links from the reading index. These sections together contain the entire English source in order; a single section is not the complete manuscript. The original Markdown files and Zenodo authority are unchanged.
 
 ## Engagement record
 - [MST Stewardship — Public Record](https://pgvozdev1973.github.io/stewardship-record.html): dated 5 October 2026; complete available Peter–Dola–V exchange, source attribution and open invitation to scrutiny. This record documents conversational engagement and does not amend the canon or establish institutional adoption.
