@@ -33,3 +33,6 @@ For tools that can open this host but truncate long documents, follow the sequen
 
 ## Research evidence
 - [MST Convergence Archive](https://pgvozdev1973.github.io/convergence/): historical evidence register, frozen prospective propositions and dated AI-safety developments. Research commentary, not amendments to the canonical theory.
+
+## Experimental research (first-party, provisional)
+- [MST experimental research register](https://pgvozdev1973.github.io/experiments.md): Evolution Lab V2–V5b, MST World 2, institutional challenge, null results, limitations and planned Open Frontier. Plain Markdown, readable without JavaScript. This is research commentary, not part of the canonical v5.15 text. Local source files are not public downloads.
