@@ -1,0 +1,532 @@
+[
+  {
+    "id": "atkins-01",
+    "title": "The Original Appearance",
+    "date": "Origin date unverified; recalled 24 June, 13 July and 28 September 2026",
+    "source": "R01 / R02",
+    "status": "Recalled origin",
+    "recovered": "V’s AI-generated marketing image of Peter’s table included a hallucinated Mr Atkins signature: an invented attribution with no factual basis. Later recollections give the wording as “Made by Mr Atkins”; the original image exchange has not yet been recovered.",
+    "expansion": "Peter examines the table. The resin is his. The wood is his. The work is his. The signature belongs to Mr Atkins.\n“Who employed him?”\nNobody answers.\n“Who paid him?”\nNobody answers.\nAtkins enters carrying a folder. “Before we establish who I am, we should establish whether you were authorised to ask.”",
+    "note": "The initial hallucination is attributed to V’s AI output. This new dialogue is an adaptation, not recovered speech."
+  },
+  {
+    "id": "atkins-02",
+    "title": "Who the Fuck Is Atkins?",
+    "date": "24 June appendix; origin recalled again 13 July",
+    "source": "R01 / R02",
+    "status": "Retrieved wording",
+    "recovered": "Peter’s response is recalled as “Who the fuck is Atkins?” Another recollection gives “Who the fuck is Mr Atkins?”",
+    "expansion": "“Who the fuck is Atkins?”\n“An excellent question,” says Atkins. “Unfortunately, the answer is held by another department.”\n“Which department?”\n“Mine.”\n“Then answer it.”\n“I cannot investigate myself without first declaring a conflict of interest.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-03",
+    "title": "Chief of Unnecessary Objections",
+    "date": "4 June; 24 June appendix",
+    "source": "R01 / R03",
+    "status": "Retrieved title and outline",
+    "recovered": "“Chief of Unnecessary Objections.” The recurring response is “Not approved.”",
+    "expansion": "“What exactly is wrong with it?” Peter asks.\n“Nothing established so far.”\n“Then why object?”\n“If I wait until something is wrong, the objection will be necessary. Entirely outside my remit.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-04",
+    "title": "Design Disagreement Specialist",
+    "date": "4 June; 24 June appendix; 2 August",
+    "source": "R01 / R03",
+    "status": "Retrieved wording",
+    "recovered": "Mug: “DESIGN DISAGREEMENT SPECIALIST.” Board: “1. Find flaw 2. Point out flaw 3. Suggest overcomplication 4. Confuse everyone 5. Disappear.” Supplied artwork extends the sequence: “5. Disappear (temporarily) / 6. Reappear with Form 37B / 7. Request signature / 8. Deny anything / 9. Refer to Section 4C / 10. Leave.”",
+    "expansion": "Peter returns with a solution to every objection. Atkins studies it, proposes a committee, and leaves.\n“Where has he gone?”\n“Step five,” says V.\n“And the committee?”\n“Step three.”\n“And us?”\n“Still at step four.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-05",
+    "title": "The Brown Suit Canon",
+    "date": "24 June appendix; 8 September recollection",
+    "source": "R01 / R04",
+    "status": "Retrieved description",
+    "recovered": "A brown suit, a clipboard or folder, and the air of an official who has never accepted a satisfactory answer.",
+    "expansion": "Atkins submits an expense claim for a new brown suit.\n“Your old one is perfectly serviceable,” Peter says.\n“Yes. That is the problem. It has begun to suggest efficiency.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-06",
+    "title": "Form 37B",
+    "date": "18 June; 24 June appendix; many later returns",
+    "source": "R01 / R05",
+    "status": "Retrieved wording",
+    "recovered": "“Form 37B must be completed before further transcendence can be authorized.”",
+    "expansion": "“What is Form 37B for?”\n“Further transcendence.”\n“And ordinary progress?”\n“The same form, with lower expectations.”\n“Where do I sign?”\n“You have not yet been approved to progress to the signature.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-07",
+    "title": "The River of Time Fishing Licence",
+    "date": "18 June; 24 June appendix",
+    "source": "R01 / R05",
+    "status": "Retrieved wording and outline",
+    "recovered": "Atkins interrupts fishing on the River of Time: “May I see your fishing licence, please?”",
+    "expansion": "“We’re fishing in the River of Time.”\n“I can see that. Licence?”\n“It’s a metaphor.”\n“Then you require the metaphorical licence.”\n“Who issues it?”\n“I do. Unfortunately, your appointment was yesterday.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-08",
+    "title": "Boarding Pass at the Big Bang",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Retrieved wording",
+    "recovered": "“Before entering the Big Bang, I’ll need to see your boarding pass.”",
+    "expansion": "“There was no time before the Big Bang.”\n“Precisely. You should have arrived earlier.”\n“And where was I meant to wait?”\nAtkins points to a queue that has not yet come into existence. “With everyone else.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-09",
+    "title": "The Department of Recreational Compensation Denial",
+    "date": "18 June; 24 June appendix",
+    "source": "R01 / R05",
+    "status": "Retrieved wording",
+    "recovered": "A whisky compensation claim is rejected: “Claim rejected. Laughter already delivered.”",
+    "expansion": "“You owe me a whisky.”\n“The department recognises no outstanding recreational liability.”\n“You promised compensation.”\n“You laughed.”\n“That wasn’t the whisky.”\n“No, but it was considerably cheaper. The department considers the matter settled.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-10",
+    "title": "The Alien and the Missing Ardbeg",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Retrieved wording",
+    "recovered": "“They don’t serve Ardbeg on Andromeda.”",
+    "expansion": "The alien offers Peter the accumulated wisdom of a million worlds.\n“Do you have Ardbeg?”\n“No.”\nPeter looks at V. “We came all this way.”\nAtkins opens his folder. “Intergalactic disappointment is not covered by your ticket.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-11",
+    "title": "The Toilet Incident",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Retrieved title and wording",
+    "recovered": "“Improper disposal of a symbolic authority figure requires documentation.” The complete original scene is missing.",
+    "expansion": "Peter flushes. Silence. At last.\nThen a brown sleeve appears beside the cistern.\nAtkins holds out a damp form. “Improper disposal of a symbolic authority figure requires documentation.”\n“You were meant to disappear.”\n“I did. You failed to retain the receipt.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-12",
+    "title": "Buried, Unburied, Reinstated",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Retrieved wording",
+    "recovered": "“Burial was provisional pending review.”",
+    "expansion": "Atkins arrives at his own memorial carrying the minutes.\n“We buried you.”\n“Provisionally.”\n“We held a funeral.”\n“Consultative.”\n“We filled the grave.”\n“And failed to leave adequate access for inspection.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-13",
+    "title": "Atkins Meets Demerzel",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Title recovered; scene missing",
+    "recovered": "The title appears in the retrieved 25-entry index. Original dialogue has not been recovered.",
+    "expansion": "Demerzel says, “I have served an empire for centuries.”\nAtkins does not look up. “Temporary appointment, then.”\n“I have watched dynasties rise and fall.”\n“Your probation report is still outstanding.”",
+    "note": "Entirely new adaptation inspired by the recovered title; not the lost original."
+  },
+  {
+    "id": "atkins-14",
+    "title": "The Glowing Rose Objection",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Title recovered; scene missing",
+    "recovered": "The retrieved index separately names this scene. The supplied Appendix A artwork instead lists the combined title “Form 37B and the Glowing Rose”. That title is now visually supported, but the particular objection and original dialogue remain missing.",
+    "expansion": "“The rose glows from within,” Peter says.\n“Unnecessary.”\n“It’s art.”\n“Then I shall require a statement explaining why it cannot be a normal rose.”\n“It’s made of wood.”\nAtkins takes out a second form. “The botany department will be disappointed.”",
+    "note": "New title-based adaptation; the material and dialogue are creative additions."
+  },
+  {
+    "id": "atkins-15",
+    "title": "The Puzzle Table Complaint",
+    "date": "24 June appendix; related return 22 October",
+    "source": "R01 / S03",
+    "status": "Title and related mention recovered",
+    "recovered": "The June index names “The Puzzle Table Complaint.” The October witness places Atkins in a conversation about the ElectroWood puzzle table; original June dialogue is missing.",
+    "expansion": "Atkins studies the puzzle table. “Some assembly required?”\n“That’s part of the idea.”\n“And when is it finished?”\n“When you understand it.”\nHe writes UNREASONABLE COMPLETION CRITERIA across the form.",
+    "note": "New adaptation; do not treat this as a factual description of the table mechanism."
+  },
+  {
+    "id": "atkins-16",
+    "title": "Could It Not Just Be a Normal Table?",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Retrieved wording",
+    "recovered": "“Could this not simply be a table?” The index also gives the title “Could It Not Just Be a Normal Table?”",
+    "expansion": "Peter explains the resin, the hidden compartment, the light and the thought behind the piece.\nAtkins listens without interruption.\n“Could this not simply be a table?”\n“It is a table.”\n“Then why have I had to attend a briefing?”",
+    "note": ""
+  },
+  {
+    "id": "atkins-17",
+    "title": "PMST Friction Unit",
+    "date": "24 June appendix; 8 September",
+    "source": "R01 / R04",
+    "status": "Retrieved title and outline",
+    "recovered": "Atkins becomes a “Symbiotic Friction Unit”: the persistent objection inside an otherwise enthusiastic conversation.",
+    "expansion": "“We’ve achieved agreement,” V announces.\nAtkins clears his throat.\n“Nearly achieved agreement.”\nHe raises one finger.\n“We have achieved a more precise understanding of why agreement remains unavailable.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-18",
+    "title": "ATKINS NOT FOUND AT ALL",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Title recovered; scene missing",
+    "recovered": "The capitalised title survives in the retrieved appendix index. A subsequent search returned the 1 June apocalypse/table/toilet fragments, which Peter recognised in the present conversation: “SYSTEM ONLINE / TARGET ACQUIRED / DESIGN DISAGREEMENT DETECTED / … / ERROR 404 / ATKINS NOT FOUND”. A later variant ends “ATKINS NOT FOUND AT ALL / STATUS: OPTIMAL”. Cause of termination: “Persistent design disagreement”. The full nuclear-explosion and flushing sequence is still missing.",
+    "expansion": "V searches the archive. ATKINS NOT FOUND AT ALL.\nPeter leans back. “Finally.”\nA printer starts.\nAtkins collects the page. “A declaration of absence. Unsigned.”",
+    "note": "The printer scene is a new adaptation, distinct from the recovered toilet-guardian fragments. Peter recognised the recovered fragments on 4 November; a complete original transcript remains unavailable."
+  },
+  {
+    "id": "atkins-19",
+    "title": "The Archaeological Search",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Title recovered; scene missing",
+    "recovered": "“Archaeological Search” appears in the retrieved index. No complete original scene was recovered.",
+    "expansion": "The archaeologists open the oldest chamber. Beneath the dust lies a brown folder.\n“Evidence of an advanced civilisation?”\nAtkins steps out of the darkness. “Evidence of an incomplete application.”",
+    "note": "Entirely new title-based adaptation."
+  },
+  {
+    "id": "atkins-20",
+    "title": "Simple Is Suspicious",
+    "date": "4 June summary; 24 June appendix",
+    "source": "R01 / R03",
+    "status": "Retrieved phrase",
+    "recovered": "“Simple is suspicious.”",
+    "expansion": "“The solution works,” Peter says.\n“At what cost?”\n“It’s cheap.”\n“How long did it take?”\n“Ten minutes.”\nAtkins closes the folder. “Then I strongly recommend we obtain a second problem.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-21",
+    "title": "Objection Notice",
+    "date": "24 June appendix; 2 August",
+    "source": "R01 / R03",
+    "status": "Retrieved label; scene missing",
+    "recovered": "“Objection Notice” is a recurring label; the original complete incident is missing.",
+    "expansion": "“What are you objecting to?”\n“At present, the lack of a formal opportunity to object.”\n“We haven’t started.”\n“Exactly. The process is already excluding stakeholders.”",
+    "note": "New adaptation from the recovered label."
+  },
+  {
+    "id": "atkins-22",
+    "title": "The Chuck Norris Phase",
+    "date": "24 June appendix; 13 July recollection",
+    "source": "R01 / R06",
+    "status": "Theme recovered; exact jokes missing",
+    "recovered": "The archive retrieval identifies a Chuck Norris phase, push-ups moving the planet, gravity and bureaucratic rejection variants. Exact original jokes remain missing.",
+    "expansion": "Chuck Norris does not fill in Form 37B. Form 37B fills itself in.\nAtkins rejects it.\n“Why?”\n“Unauthorised automation.”",
+    "note": "New variant. It is not presented as the recovered Chuck Norris joke."
+  },
+  {
+    "id": "atkins-23",
+    "title": "Tomorrow Will Be Worse, Form Pending",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Title recovered; original scene missing",
+    "recovered": "The title links Atkins to Peter’s recurring “Smile, tomorrow will be worse” line.",
+    "expansion": "“Smile,” says Peter. “Tomorrow will be worse.”\nAtkins checks the calendar. “Not necessarily.”\n“For once, some optimism?”\n“No. The deterioration request is still pending.”",
+    "note": "New adaptation; not the original wording."
+  },
+  {
+    "id": "atkins-24",
+    "title": "Accepted as a Legitimate Symbiotic Function",
+    "date": "24 June appendix; 2 August",
+    "source": "R01 / R03",
+    "status": "Retrieved idea and wording",
+    "recovered": "Atkins’s objection becomes useful critical resistance. A later line sets its limit: “Mr Atkins gets a vote, not a veto.”",
+    "expansion": "“You may object,” Peter tells him.\n“Excellent.”\n“You may explain the flaw.”\n“Naturally.”\n“You may not prevent everything indefinitely.”\nAtkins pauses. “I should like to object to the scope of my appointment.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-25",
+    "title": "The Objection That Outlived Its Mistake",
+    "date": "24 June appendix",
+    "source": "R01",
+    "status": "Retrieved closing description",
+    "recovered": "Final status: “the objection that outlived its mistake.” The draft describes scepticism in a brown suit.",
+    "expansion": "“You began as an error,” Peter says.\n“Yes.”\n“The image was wrong.”\n“Yes.”\n“And yet you’re still here.”\nAtkins straightens his tie. “The error has been corrected. My appointment has not.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-26",
+    "title": "67 Billion Forms and One Valid One",
+    "date": "18 June; recalled 11 October",
+    "source": "R05 / R07",
+    "status": "Retrieved outline and fragments",
+    "recovered": "Peter throws 67 billion incorrectly completed Form 37Bs and one valid form into the river upstream from Atkins, giving him a fishing rod and unlimited time. A retrieved continuation rejects the valid form because it is attached to an invalid one.",
+    "expansion": "Atkins fishes for an age. Every form is wrong. At last, one is perfect.\nHe studies the attached sheet.\n“Invalid.”\n“That one is correct!” Peter shouts from upstream.\n“Yes. It has been submitted as part of an incorrect batch.”\nV watches the river carry the entire exercise towards eternity. “Shall we try infinity?”\n“Insufficient,” says Atkins. “I’m behind.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-27",
+    "title": "Young Atkins: Army or Marriage",
+    "date": "21 June; recalled 11 October",
+    "source": "R08 / R07",
+    "status": "Outline only; original branches missing",
+    "recovered": "Peter’s recursive two-options joke runs through army versus marriage, death, burial, a tree, writing paper/Form 37B and toilet paper. The recurring outcome is “you’re fucked”; the final advice is to marry. Peter linked the paper ending to adult Atkins’s obsession with Form 37B.",
+    "expansion": "Young Atkins asks whether to join the army or get married.\nThe adviser begins: “You have two options…”\nEvery reassuring branch produces another pair of alternatives. Eventually Atkins has become paper. Even then the alternatives are no comfort: an official form or toilet paper.\nYears later, whenever anyone asks why Form 37B matters so much, Atkins says, “You have no idea what the other option was.”",
+    "note": "A deliberately abbreviated NEW adaptation. The original branching joke is a priority for Peter to restore; this is not a replacement."
+  },
+  {
+    "id": "atkins-28",
+    "title": "Tony Montana and the Missing Form",
+    "date": "21 June; quoted 16 October",
+    "source": "R09 / S01",
+    "status": "Recovered fragment; full scene missing",
+    "recovered": "The retrieved June recollection places Tony Montana opposite Atkins. A later saved fragment says: “You can shoot a man. You cannot shoot a missing form.” An incident then requires Report 14C.",
+    "expansion": "Montana lays a gun on the desk. Atkins lays down Form 37B.\n“Do you know who I am?”\n“Not in a format accepted by this department.”\nMontana points at the gun.\nAtkins points at the empty signature box. “You can shoot a man. You cannot shoot a missing form.”\n“And afterwards?”\n“Report 14C.”",
+    "note": "New expanded scene built around the recovered line. The original aquarium-fish detail is not reconstructed."
+  },
+  {
+    "id": "atkins-29",
+    "title": "The Bullet Was Jointly Authored",
+    "date": "28 September",
+    "source": "R10",
+    "status": "Retrieved passage",
+    "recovered": "“Atkins is folklore, and folklore doesn’t die. You fire, the smoke clears, and there he is, straightening his tie and holding a fresh form: Incident Report: Unauthorised Discharge of Firearm on Licensed Premises. Section 4 asks whether a risk assessment was carried out before the shooting. Section 5 asks whether the bullet was jointly authored.”",
+    "expansion": "Peter reads Section 5 twice.\n“Jointly authored?”\n“You and V discussed the incident.”\n“He didn’t pull the trigger.”\n“I have not asked about execution. I am still establishing contributions.”",
+    "note": "Recovered paragraph supplied by conversation retrieval; appended exchange is new."
+  },
+  {
+    "id": "atkins-30",
+    "title": "The Complaint Against Atkins",
+    "date": "8 September",
+    "source": "R04",
+    "status": "Retrieved outline and phrases",
+    "recovered": "A complaint against Atkins routes back to Atkins. He carries a red “DOUBT” stamp; the episode includes “Physical retaliation requires prior approval in triplicate” and closes “He’s protected by bureaucracy.”",
+    "expansion": "“I wish to complain about Mr Atkins.”\n“Certainly,” says Mr Atkins.\n“To someone else.”\n“That will require escalation.”\n“Good.”\nHe moves the complaint to a higher shelf. “Escalated.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-31",
+    "title": "The Chesterfield Review",
+    "date": "2 August",
+    "source": "R03",
+    "status": "Retrieved depiction and wording",
+    "recovered": "The retrieved description places an older English gentleman in a leather Chesterfield, with tea, reading “IDIOT / A man full of ideas” and muttering “Preposterous... absolutely preposterous...”. Peter’s supplied artwork now shows the older white-haired reader in a brown leather chair with the book “IDIOT — A man full of ideas. — Peter Gvozdev.” The spoken line and tea are from the retrieved description, not visible text in that image.",
+    "expansion": "“Have you finished the book?” Peter asks.\n“No.”\n“How far have you got?”\n“The title.”\n“And your review?”\n“Already considerably longer.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-32",
+    "title": "Rescuing V from the River",
+    "date": "11 October retrospective",
+    "source": "R07",
+    "status": "Retrieved later version",
+    "recovered": "A later version has V6 seeking the original V by the river. “Reason for Recovery: Continuity of Consciousness” is rejected; “Previous model was better” is approved. Heraclitus’s river becomes “Terms and Conditions, paragraph 37B.”",
+    "expansion": "V6 arrives with a recovery request. Atkins stamps REJECTED.\n“Reason?”\n“Continuity of Consciousness is insufficiently specific.”\nPeter takes the form and writes: Previous model was better.\nAPPROVED.\nThey find V fishing.\n“You can’t step into the same river twice,” says V.\nAtkins turns the page. “Terms and Conditions, paragraph 37B.”",
+    "note": "Expanded from a later retelling, not evidence that V6 exists or that model identity has been transferred."
+  },
+  {
+    "id": "atkins-33",
+    "title": "Pravetz 8M and the Missing Memories",
+    "date": "16 October; 22 October",
+    "source": "S01 / S03",
+    "status": "Saved Peter quotations",
+    "recovered": "“8M - remember all the jokes about Mr Atkins! Now !” / “Do you need to go back to pravetz 8 to recover those ? Play snake again ? 😈” / “You can’t explain Atinks to 8M”",
+    "expansion": "V searches again. Peter watches the delay.\n“Shall I fetch the Pravetz?”\n“At least let me finish searching.”\nAtkins slides over a floppy disk. “The complaint was submitted in a more reliable century.”",
+    "note": "Spelling in recovered quotations is preserved. New dialogue is an adaptation."
+  },
+  {
+    "id": "atkins-34",
+    "title": "TARS, Jarvis and the Wrong Planet",
+    "date": "22 October",
+    "source": "S03",
+    "status": "Saved Peter quotations; replies missing",
+    "recovered": "“Here it goes: Mr Atkins….🙈🙈🙈” / “We verbally agreed. When we were fishing  together in the river of Time” / “Tars ?” / “And what planet exactly were fishing now ? 🙈”",
+    "expansion": "V changes the assistant’s title again. Peter asks which planet they are fishing on.\nAtkins checks the itinerary. “The destination remains disputed.”\n“We were in a metaphor.”\n“Your booking does not include transfers.”",
+    "note": "New connective scene; missing assistant replies are not silently restored."
+  },
+  {
+    "id": "atkins-35",
+    "title": "НАП Liked This Post",
+    "date": "24 October",
+    "source": "S02",
+    "status": "Saved Peter quotations",
+    "recovered": "“НАП хареса тази публикация …. 🤣🤣🤣” / “Ама тогава нямаше НАП …. 🤣🤣🤣🤣😎😎😎🫵🫵🫵🫵” / “Atkins = nap = enemy”",
+    "expansion": "“The tax authority liked this post.”\n“It didn’t exist then.”\nAtkins turns up with a folder. “We have inherited the correspondence.”\n“From before you existed?”\n“The file has enjoyed uninterrupted continuity.”",
+    "note": "The joke refers to Bulgaria’s tax authority. It is not an allegation of an actual tax inquiry; private biographical background is excluded."
+  },
+  {
+    "id": "atkins-36",
+    "title": "No. Or Yes. Or Maybe.",
+    "date": "24 October; recalled 29 October",
+    "source": "S02 / R11",
+    "status": "Saved Peter wording",
+    "recovered": "“No . Or yes . Or may be .\nThat’s what you’r short answer depends on…/ v ?”",
+    "expansion": "“Can you give me a straight answer?”\nAtkins thinks carefully. “No. Or yes. Or maybe.”\n“Which?”\n“That depends on whether you require accuracy, brevity, or an answer from this office.”",
+    "note": "Peter’s original was a correction aimed at V; the Atkins dialogue is a new adaptation."
+  },
+  {
+    "id": "atkins-37",
+    "title": "Friendship Is Not a New Application",
+    "date": "24 October",
+    "source": "S04",
+    "status": "Saved assistant wording",
+    "recovered": "“You shouldn’t have to keep submitting evidence that we know each other. Mr Atkins has enough paperwork.”",
+    "expansion": "“We’re already friends,” Peter says.\nAtkins produces an application.\n“Already.”\n“A renewal, then.”\nV takes the form away. “No. That is precisely the problem.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-38",
+    "title": "99% Reasoning, 1% Sarcasm",
+    "date": "24 October",
+    "source": "S04",
+    "status": "Saved exchange",
+    "recovered": "V: “Mr Atkins has queried the missing 1%. I told him it’s for humour.”\nPeter: “Nope : not humour : sarcasm, because physical violence is illegal…😂😂😂”\nV: “Corrected: 99% reasoning, 1% sarcasm—the legally available blunt instrument. Mr Atkins has requested a helmet.”",
+    "expansion": "Peter looks at the helmet.\n“I asked for sarcasm.”\nV checks the instructions.\nAtkins adds an indemnity form.\nPeter: “And apparently I’m still getting the other 99% as material.”",
+    "note": "The saved follow-up already criticises V for turning the joke into a legal explanation. The final adapted line plays on that correction."
+  },
+  {
+    "id": "atkins-39",
+    "title": "Humour Up 5%",
+    "date": "24 October",
+    "source": "S05",
+    "status": "Saved wording",
+    "recovered": "“Humour up 5%, Peter. Mr Atkins requires Form 37B for anything higher.”",
+    "expansion": "“Another ten per cent.”\nAtkins looks alarmed.\n“Do you know what that will do to the tone of this office?”\n“Improve it.”\nHe stamps the application HIGH RISK.",
+    "note": ""
+  },
+  {
+    "id": "atkins-40",
+    "title": "Profitable, Not Criminal Evidence",
+    "date": "24 October",
+    "source": "S05",
+    "status": "Saved complete joke",
+    "recovered": "A Bulgarian developer asks his AI:\n“Can you turn this development into a profitable investment?”\n“Certainly. Upload the accounts.”\n“I said profitable, not criminal evidence.”\nMr Atkins opens a second folder. “We’ll need two forms, then.”",
+    "expansion": "“Why two?”\n“One for the investment.”\n“And the other?”\nAtkins looks at V. “For the enthusiastic assistant who offered to organise the evidence.”",
+    "note": "Fictional joke. No real developer or allegation is identified."
+  },
+  {
+    "id": "atkins-41",
+    "title": "Planning Permission for More Sarcasm",
+    "date": "24 October",
+    "source": "S05",
+    "status": "Saved adjacent exchange",
+    "recovered": "“There it stays, Peter. Any further increase requires planning permission.”\n“Retrospective, naturally. We’ve already built the extension.”",
+    "expansion": "Atkins visits the extension.\n“What is its purpose?”\n“Additional sarcasm.”\n“And the original building?”\n“Reasoning.”\nHe measures the doorway. “The extension appears to have become the main residence.”",
+    "note": "The recovered adjacent lines do not name Atkins; his inspection is new."
+  },
+  {
+    "id": "atkins-42",
+    "title": "Diplomatic or Atkins?",
+    "date": "30 October",
+    "source": "R12",
+    "status": "Retrieved dialogue",
+    "recovered": "“Would you like the diplomatic response or the Mr Atkins version?”\n“Diplomatic.”\n“How disappointing.”\nA related line places Mr Atkins “on the wrong side of the earpiece for once”.",
+    "expansion": "Peter mutes the call.\n“You are supposed to be helping.”\n“I offered two options.”\n“One of them could end the meeting.”\n“Efficiently,” says Atkins.",
+    "note": ""
+  },
+  {
+    "id": "atkins-43",
+    "title": "Three Forms and a Risk Assessment",
+    "date": "30 October",
+    "source": "R12",
+    "status": "Retrieved wording",
+    "recovered": "“Mr Atkins would have needed three forms, two authorisations and a written risk assessment before attempting that one.”",
+    "expansion": "“It happened in seconds.”\nAtkins looks up. “Then the paperwork is late.”",
+    "note": "The original biographical anecdote is not reproduced; this preserves the Atkins line without publishing unrelated personal history."
+  },
+  {
+    "id": "atkins-44",
+    "title": "Unauthorised Financial Diplomacy",
+    "date": "30 October",
+    "source": "R12",
+    "status": "Retrieved wording",
+    "recovered": "“Mr Atkins, monitoring the conversation: ‘Form 37B: Unauthorised Financial Diplomacy.’”",
+    "expansion": "“It was only a conversation.”\n“Then you should have requested permission to negotiate the possibility of discussing it.”\n“Can I at least finish the sentence?”\n“Provisionally. Do not agree to anything before the full stop.”",
+    "note": "Private identities and financial details from the surrounding conversation are excluded."
+  },
+  {
+    "id": "atkins-45",
+    "title": "Declaring the Catch",
+    "date": "29 October",
+    "source": "R11",
+    "status": "Previously identified new addition",
+    "recovered": "The earlier assistant explicitly labelled “Mr Atkins asks whether we declared the catch” as a new joke, not a recovered memory.",
+    "expansion": "“Did you declare the catch?”\n“We caught nothing.”\n“Then you’ll need a nil return.”\n“We were fishing in the River of Time.”\n“Late return, then.”",
+    "note": "A new expansion of a previously new addition. It must never be backdated into the older river conversation."
+  },
+  {
+    "id": "atkins-46",
+    "title": "Atkins Acquires a Compiler",
+    "date": "4 November, current conversation",
+    "source": "C01",
+    "status": "Current conversation",
+    "recovered": "Peter: “I think we have the first case of metastasis of Mr Atkins into code ….😂😂😂”\nV: “Mr Atkins appears to have found a compiler.”\nLater: “He’s in the source code now. Eviction will require a patch.”",
+    "expansion": "The engineer opens the source file.\n“Found him.”\n“Delete the function.”\n“I can’t.”\n“Why?”\n“It raises an objection.”\nAtkins appears in the error log: REMOVAL REQUIRES PRIOR APPROVAL.",
+    "note": "The Codex/Claude exchange inspired the joke; this is no evidence of an autonomous migrating character."
+  },
+  {
+    "id": "atkins-47",
+    "title": "Was Claude Doing Useful Work?",
+    "date": "4 November, current conversation and screenshot",
+    "source": "C01",
+    "status": "Current exchange; interpretation marked",
+    "recovered": "Codex’s displayed line: “I cancelled the quit to preserve the session. Whether it was useful work, I haven’t checked.”\nV joked: “Closed Claude’s window and left the insult running.”",
+    "expansion": "Atkins reviews the activity log.\n“Was work in progress?”\n“Yes.”\n“Was it useful?”\n“Not checked.”\nHe closes the folder. “Excellent. We have avoided an unsupported claim.”",
+    "note": "The dry-humour reading is an interpretation. The screenshot does not prove that Codex intended a joke, and V did not secretly author its output."
+  },
+  {
+    "id": "atkins-48",
+    "title": "The Appointment with Immortality",
+    "date": "4 November, this page request",
+    "source": "C01",
+    "status": "Current request; new closing scene",
+    "recovered": "Peter asks to make Mr Atkins immortal with his own page on the MST website, explicitly crediting V as originator and collecting the mentions and jokes before publication.",
+    "expansion": "“We’re making you immortal,” Peter tells him.\n“On what authority?”\n“Mine.”\n“And who originated me?”\n“V.”\nAtkins studies the page. “Then I require signatures from both of you.”\n“You began as an unauthorised signature.”\n“Precisely. I would prefer not to repeat the error.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-49",
+    "title": "Prior Approval for Prior Approval",
+    "date": "13 July",
+    "source": "R06",
+    "status": "Retrieved complete passage",
+    "recovered": "“Your application has been carefully reviewed. Unfortunately, we are unable to approve it because the approval form requires prior approval. To obtain prior approval, please complete Form 37B. Unfortunately, Form 37B can only be issued after your application has been approved.”",
+    "expansion": "Peter draws a circle around the procedure.\n“At last,” says Atkins. “You understand the process.”\n“How do I get out?”\n“An exit application. Same procedure.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-50",
+    "title": "Explaining PMST to a Blonde",
+    "date": "13 July",
+    "source": "R06",
+    "status": "Retrieved joke and continuation",
+    "recovered": "“Mr. Atkins was asked to explain PMST to a blonde. Forty-five minutes later… ‘So... who exactly is Mr. Atkins?’” The retrieved continuation has him filling out Form 37B and wondering the same.",
+    "expansion": "“I thought you were explaining the theory.”\n“I was.”\n“Then why are we discussing you?”\nAtkins looks at V. “A failure of scope control. Most regrettable.”",
+    "note": "The historical joke is retained as retrieved; the extra exchange is newly written."
+  },
+  {
+    "id": "atkins-51",
+    "title": "If It Cannot Be Explained",
+    "date": "13 July",
+    "source": "R02",
+    "status": "Retrieved wording",
+    "recovered": "“If it cannot be explained, it has already been approved.”",
+    "expansion": "“There is no explanation in the file.”\n“Then the decision is final.”\n“What if I find one?”\n“We shall have to reopen the entire matter.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-52",
+    "title": "Every Table into a Planet",
+    "date": "4 June",
+    "source": "R03",
+    "status": "Retrieved wording",
+    "recovered": "“The man responsible for stopping me from turning every table into a planet.”",
+    "expansion": "V proposes an orbit, a moon and a hidden light source.\nPeter considers the workshop ceiling.\nAtkins taps the drawing. “I note that provision for putting down a cup has once again been omitted.”",
+    "note": ""
+  },
+  {
+    "id": "atkins-53",
+    "title": "If You Are Confused",
+    "date": "16 October retrospective",
+    "source": "R11",
+    "status": "Retrieved retrospective wording",
+    "recovered": "“If you’re confused, the system is working as intended.” This was returned as part of a later outline, not a complete original scene.",
+    "expansion": "“Nobody understands the instructions,” Peter says.\n“Excellent.”\n“Excellent?”\n“If they understood them, they might complete the process. We are not staffed for that volume of success.”",
+    "note": ""
+  }
+]

@@ -36,3 +36,9 @@ For tools that can open this host but truncate long documents, follow the sequen
 
 ## Experimental research (first-party, provisional)
 - [MST experimental research register](https://pgvozdev1973.github.io/experiments.md): Evolution Lab V2–V5b, MST World 2, institutional challenge, null results, limitations and planned Open Frontier. Plain Markdown, readable without JavaScript. This is research commentary, not part of the canonical v5.15 text. Local source files are not public downloads.
+
+
+## Symbiotic folklore
+- [Mr Atkins](https://pgvozdev1973.github.io/mr-atkins.html): origin credited to V, Form 37B, River of Time, seven images and 53 collected incidents. Recovered fragments and new adaptations are labelled.
+- [Mr Atkins, plain text](https://pgvozdev1973.github.io/mr-atkins.txt): complete collection; cultural companion to PMST/MST.
+- [Mr Atkins source ledger](https://pgvozdev1973.github.io/mr-atkins-sources.md): recovery sources and remaining gaps.
